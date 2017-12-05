@@ -11,7 +11,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-   <h1>Welcome to FS STAR. </h1>
+   <h1>Welcome to AIB. </h1>
    <h3>Today is <%= new Date() %> </h3>  <br>
    
    
