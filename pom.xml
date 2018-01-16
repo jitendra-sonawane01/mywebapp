@@ -28,8 +28,7 @@
 	<distributionManagement>
 		<snapshotRepository>
 			<id>fsstardevops_snapshot</id>
-			<name>fsstardevops_snapshot</name>
-			<url>http://infynexus/nexus/content/repositories/fsstardevops_snapshot/</url>
+			<name>fsstardevops_snapshot</name>			<url>http://infynexus/nexus/content/repositories/fsstardevops_snapshot/</url>
 		</snapshotRepository>
 		<repository>
 			<id>fsstardevops_release</id>
@@ -50,8 +49,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>2.3.2</version>
 				<configuration>
-					<source>1.8</source>
-					<target>1.8</target>
+					<source>1.7</source>
+					<target>1.7</target>
 				</configuration>
 			</plugin>
 			<plugin>
